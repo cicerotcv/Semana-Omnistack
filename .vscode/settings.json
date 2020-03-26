@@ -1,0 +1,4 @@
+{
+    "python.autoComplete.addBrackets": true,
+    "javascript.suggest.includeAutomaticOptionalChainCompletions": false
+}
